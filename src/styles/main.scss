@@ -1,0 +1,21 @@
+@import "~normalize.css";
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "Noto Sans", "Noto Sans CJK JP", sans-serif;
+}
+
+
+.container {
+  padding-top: 2em;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  font-weight: 900;
+  color: crimson;
+}
+
+.profile-image {
+  width: 240px;
+}
