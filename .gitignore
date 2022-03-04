@@ -127,4 +127,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# Build directory
+.public/
+
 # End of https://www.gitignore.io/api/macos,linux,node
